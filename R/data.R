@@ -3,6 +3,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "mona_database0.0.4"
 
@@ -12,6 +13,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "massbank_database0.0.4"
 
@@ -21,6 +23,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "plasma_database0.0.1"
 
@@ -30,6 +33,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "respect_database0.0.1"
 
@@ -39,6 +43,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "kegg_plant_database0.0.1"
 
@@ -48,6 +53,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "zma_plantcyc_database0.0.1"
 
@@ -57,6 +63,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "ath_plantcyc.database0.0.1"
 
@@ -66,6 +73,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "knapsack_agri_database0.0.1"
 
@@ -75,6 +83,7 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "metabobase_database0.0.1"
 
@@ -84,6 +93,7 @@
 #' @author Xiaotao Shen
 #' \email{shenxt1990@@163.com}
 #' @format A databaseClass object.
+#' @export
 
 "orbitrap_database0.0.3"
 
@@ -93,5 +103,6 @@
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
 #' @format A databaseClass object.
+#' @export
 
 "class.database"
