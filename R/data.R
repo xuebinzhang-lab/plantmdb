@@ -2,6 +2,8 @@
 #' @description MassBank of North America database with classification
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name mona_database0.0.4
 #' @format A databaseClass object.
 
 "mona_database0.0.4"
@@ -11,6 +13,8 @@
 #' @description massbank database database 0.0.4
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name massbank_database0.0.4
 #' @format A databaseClass object.
 
 "massbank_database0.0.4"
@@ -20,6 +24,8 @@
 #' @description PlaSMA_database0.0.1
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name plasma_database0.0.1
 #' @format A databaseClass object.
 
 "plasma_database0.0.1"
@@ -29,6 +35,8 @@
 #' @description respect_database0.0.1
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name respect_database0.0.1
 #' @format A databaseClass object.
 
 "respect_database0.0.1"
@@ -38,6 +46,8 @@
 #' @description kegg_plant_database0.0.1
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name kegg_plant_database0.0.1
 #' @format A databaseClass object.
 
 "kegg_plant_database0.0.1"
@@ -47,6 +57,8 @@
 #' @description zea mays plantcyc database 0.0.1
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name zma_plantcyc_database0.0.1
 #' @format A databaseClass object.
 
 "zma_plantcyc_database0.0.1"
@@ -56,6 +68,8 @@
 #' @description ath plantcyc database 0.0.1
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name ath_plantcyc.database0.0.1
 #' @format A databaseClass object.
 
 "ath_plantcyc.database0.0.1"
@@ -65,6 +79,8 @@
 #' @description knapsack agri database 0.0.1
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name knapsack_agri_database0.0.1
 #' @format A databaseClass object.
 
 "knapsack_agri_database0.0.1"
@@ -74,6 +90,8 @@
 #' @description metaboBASE database 1.0.0
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name metabobase_database0.0.1
 #' @format A databaseClass object.
 
 "metabobase_database0.0.1"
@@ -83,6 +101,8 @@
 #' @description orbitrap_database0.0.3
 #' @author Xiaotao Shen
 #' \email{shenxt1990@@163.com}
+#' @docType data
+#' @name orbitrap_database0.0.3
 #' @format A databaseClass object.
 
 "orbitrap_database0.0.3"
@@ -92,6 +112,30 @@
 #' @description in-build pmDatabse classyFire
 #' @author Shawn Wang
 #' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name class.database
 #' @format A databaseClass object.
 
 "class.database"
+
+##------------------------------------------------------------------------------
+#' @title zma_ms1_db_v0.0.1
+#' @description zma_ms1_db_v0.0.1
+#' @author Xiao Wang
+#' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name zma_ms1_db_v0.0.1
+#' @format A databaseClass object.
+
+"zma_ms1_db_v0.0.1"
+
+##------------------------------------------------------------------------------
+#' @title zma_ms2_db_v0.0.1
+#' @description zma_ms2_db_v0.0.1
+#' @author Xiao Wang
+#' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name zma_ms2_db_v0.0.1
+#' @format A databaseClass object.
+
+"zma_ms2_db_v0.0.1"
