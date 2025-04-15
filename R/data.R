@@ -139,3 +139,25 @@
 #' @format A databaseClass object.
 
 "zma_ms2_db_v0.0.1"
+
+##------------------------------------------------------------------------------
+#' @title kegg_zma_pathway
+#' @description kegg_zma_pathway
+#' @author Xiao Wang
+#' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name kegg_zma_pathway
+#' @format A pathway_database object.
+
+"kegg_zma_pathway"
+
+##------------------------------------------------------------------------------
+#' @title corncyc_zma_pathway
+#' @description corncyc_zma_pathway
+#' @author Xiao Wang
+#' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name corncyc_zma_pathway
+#' @format A pathway_database object.
+
+"corncyc_zma_pathway"
