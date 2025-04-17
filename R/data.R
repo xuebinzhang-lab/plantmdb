@@ -114,9 +114,20 @@
 #' \email{shawnwang2016@@126.com}
 #' @docType data
 #' @name class.database
-#' @format A databaseClass object.
+#' @format A dataframe.
 
 "class.database"
+
+##------------------------------------------------------------------------------
+#' @title class.database_corncyc
+#' @description class database for corncyc
+#' @author Shawn Wang
+#' \email{shawnwang2016@@126.com}
+#' @docType data
+#' @name class.database_corncyc
+#' @format A dataframe.
+
+"class.database_corncyc"
 
 ##------------------------------------------------------------------------------
 #' @title zma_ms1_db_v0.0.1
